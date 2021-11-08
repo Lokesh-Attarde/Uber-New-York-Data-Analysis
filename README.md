@@ -83,20 +83,26 @@ This data contains on over 4.5 million Uber pickups in New York City provided wi
 For more details, please go through the Jupyter Notebook attached above.
 
 # 💡 Conclusions
-
-* "Cafe Coffee Day" is on Peak. Next, We have "Onesta", followed by "Empire Restaurant" and so on.
-* "64.4%" Restaurants accepts Online Order whereas around "35.6%" Restaurants does not accepts Online Order.
-* Highest Voted Restaurant is "Onesta", followed by "Truffles" and "Empire Restaurant".
-* Widefield and BTM has the Maximum Number of Restaurants.
-* Most of the Highest Rated Restaurants Accepts "Online Order" and they are, of course, affordable whereas there are some Highest Rated Restaurants who do not Accepts "Online Order" and they are Expensive.
-* Average number of Votes for both Categories Varies because the Restaurant who's Accepting "Online Orders", get More "Votes" from Customers as there is a "Rating" window popping-up after each 'Order Place' from the "Zomato" Application.
-  That's Why Restaurants having 'Online Order' faciliy has "Maximum Number of Votes" compared to do not ones.
-* More than 50% of Restaurants having approximate cost for 2 people is less than "1000 Rs." and they are Affordable too in Bangalore.
-* Around "372" Restaurants are "Affordable" as well as they have good "Rating" I.e. greater than 4 out of 5.
-* "BTM", "5th Block", and "HSR" has the Most Number of Restaurants/Most Foodie Areas. "BTM" dominates the section by having around "5K" Restaurants.
-* In "South-East" Bangalore Region, We have "Maximum Number of North Indian Restaurants". Again in that Zone, We might have a "Maximum Number of North Indian People".
-* In "South-West" Bangalore Region, We have "Maximum Number of "South Indian Restaurants" followed by "Central" and "South-East" Bangalore.
-* Now, In terms of "Biryani", in "South" Bangalore Region, We have "Maximum Number of "Biryani cuisines Restaurants" followed by "South-West" and "Central" Bangalore.
+* "Rush" is definitely highest on "Thursday" followed by "Friday" and "Wednesday".
+* Rush is definitely on Peak during Evening Time when people are logging off from their Work and At the same time, people go out for hang-out or to do a Shopping.
+  Hence, We have more Rush during Evening Time compared to the Morning Time and the Mid Day.
+* "September" has the highest Rush or I would say, it has the Maximum Rides.
+  Almost in the Couple of Last Days, in Each and Every "Month", we have "Maximum Rides".
+* 'Thursday', is on the peak, whereas "Sunday" with respect to our Week-end, is on the root (bottom).
+  And, In terms of the Rush, Hour & Location-wise - In the Early Morning at 8 o'Clock of almost each & every day, we've Maximum Number of Rush at this Location (I.e. 40.745) followed by Evening at 4 o'Clock.
+* "Base" Number, which is exactly "B02617", gets Popular by Month.
+* Almost in Each and Every Day, mostly in the "Evening Time", we have a "Rush" whereas on "Mid-Night", we don't have any kind of "Rush".
+* Most of the 'Rush' is there on "Weekdays" rather than the "Week-ends".
+  We have Majority of Rides are in "September", it might be because of Autumn Season, people go for excursions to enjoy the Natural Beauty.
+* "Mid-Town Manhattan" is clearly a 'Huge Bright Spot', followed by basically "Upper Manhattan" and "Heights of Brooklyn".
+  At these "Regions", we have a Darker Density. It means, At these particular Regions, we have a 'Maximum Rides'.
+* In this, "6th" Month, we have a Higher Number of Pick-up's followed by "May" and "April".
+  We can also say that, The "Number of Uber Pick-up's" has been Gradually Increases throughout the 1st Half of 2015 in "New York".
+* After the "Morning Rush", the Number of Uber Pick-up's doesn't decline much throughout the Rest of the Morning and Early "Afternoon" as well.
+  And There is significantly More Demand of Uber Cabs in the "Evening".
+* Base Number "B02764" is a Pioneer/Prominent. It has a Maximum Number of 'Active Vehicles' as well as it has a Maximum Number of 'Trips' as well.
+* Base Number', I.e. 'B02598' and 'B02682', are definitely Performed better in terms of Demands and Supply.
+  Whereas in case of, Blue Plot, which refers to 'B02512', it doesn't have that much Good Attention comparing to All other 'Base Number'.
 
 And so many more!!
 
